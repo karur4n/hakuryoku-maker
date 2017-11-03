@@ -1,0 +1,20 @@
+{
+  "name": "hakuryoku-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "dependencies": {
+    "@types/fabric": "^1.5.27",
+    "@types/lodash": "^4.14.80",
+    "awesome-typescript-loader": "^3.2.3",
+    "exports-loader": "^0.6.4",
+    "fabric": "^1.7.19",
+    "lodash": "^4.17.4",
+    "typescript": "^2.5.3",
+    "webpack": "^3.8.1"
+  }
+}
